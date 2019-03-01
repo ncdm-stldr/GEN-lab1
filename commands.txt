@@ -1,4 +1,4 @@
-Here is the list of git commands used to create the workflow (not necessary complete yet):
+Here is the list of git commands used to create the workflow (not necessary complete yet) (the lines beginning with # are not commands, but descriptions):
 
 #initialization phase
 git init
@@ -7,4 +7,14 @@ git remote add origin git@github.com:ncdm-stldr/GEN-lab1.git
 #related to commit n°1 of branch master
 git add Readme.md commands.txt
 git commit -m "commit 1 on master"
+git push origin master
+
+#related to commit n°1 of branch master
+git add Readme.md commands.txt
+git commit -m "commit 1 on master"
+git push origin master
+
+#related to commit n°2 of branch master
+git add -u
+git commit -m "commit 2 on master"
 git push origin master
