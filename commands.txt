@@ -9,12 +9,12 @@ git add Readme.md commands.txt
 git commit -m "commit 1 on master"
 git push origin master
 
-#related to commit n°1 of branch master
-git add Readme.md commands.txt
-git commit -m "commit 1 on master"
-git push origin master
-
 #related to commit n°2 of branch master
 git add -u
 git commit -m "commit 2 on master"
+git push origin master
+
+#related to commit n°3 of branch master
+git add -u
+git commit -m "commit 3 on master"
 git push origin master
