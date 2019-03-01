@@ -1,0 +1,1 @@
+How to write a program source code that print itself without reading itself? (if the question is not well defined (relatively to its intended goal), you can "cheat", but this is not the main goal of the question.
