@@ -28,3 +28,7 @@ git push origin essai
 #related to commit n°2 of branch essai
 git add -u
 git commit -m "commit 2 on essai"
+
+#related to commit n°3 of branch essai
+git add -u
+git commit -m "commit 3 on essai"
