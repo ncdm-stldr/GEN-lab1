@@ -17,4 +17,10 @@ git push origin master
 #related to commit n°2 of branch master
 git add -u
 git commit -m "commit 2 on master"
-git push origin master
+
+#related to commit n°1 on branch essai
+git branch essai
+git checkout essai
+git add -u
+git commit -m "commit 1 on essai"
+git push origin essai
